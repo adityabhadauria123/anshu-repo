@@ -4,5 +4,5 @@ resource "azurerm_resource_group" "dhondu-rg" {
 }
 resource "azurerm_resource_group" "rakhi" {
     name="rakhi"
-    location="westus"
+    location="central"
 }
